@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MintyTheCoder
 - 👀 I’m interested in Software Development and Hardware Engineering
 - 🌱 I’m currently learning Python, Java, C#, Unity, and C++
-- 💞️ I’m looking to collaborate on future Python and Unity projects
+- 💞️ I’m looking to collaborate on future Python, Arduino, and Unity projects
 - 📫 How to reach me: @MintyTheCoder on Twitter
 
 <!---
