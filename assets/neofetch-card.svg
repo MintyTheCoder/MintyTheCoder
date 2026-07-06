@@ -1,0 +1,50 @@
+<svg width="700" height="260" viewBox="0 0 700 260" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#03110d"/>
+      <stop offset="100%" stop-color="#051a14"/>
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="1.4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect x="0" y="0" width="700" height="260" rx="14" fill="url(#bg)" stroke="#065f46" stroke-width="1.5"/>
+
+  <rect x="0" y="0" width="700" height="34" rx="14" fill="#022c22"/>
+  <rect x="0" y="20" width="700" height="14" fill="#022c22"/>
+  <circle cx="22" cy="17" r="6" fill="#ff5f56"/>
+  <circle cx="42" cy="17" r="6" fill="#ffbd2e"/>
+  <circle cx="62" cy="17" r="6" fill="#27c93f"/>
+  <text x="350" y="21" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="12" fill="#6ee7b7">montgomery@vt-engineering: ~</text>
+
+  <g font-family="JetBrains Mono, monospace" font-size="14" fill="#d1fae5" filter="url(#glow)">
+    <text x="30" y="70" fill="#34D399" font-weight="bold">montgomery@vt-engineering</text>
+    <text x="30" y="88" fill="#065f46">--------------------------</text>
+
+    <text x="30" y="112"><tspan fill="#34D399">OS:</tspan> Virginia Tech // Dual Degree</text>
+    <text x="30" y="134"><tspan fill="#34D399">Major:</tspan> Computer Engineering + Computer Science</text>
+    <text x="30" y="156"><tspan fill="#34D399">Focus:</tspan> Chip-Scale Integration</text>
+    <text x="30" y="178"><tspan fill="#34D399">Shell:</tspan> /bin/cpp</text>
+    <text x="30" y="200"><tspan fill="#34D399">Languages:</tspan> C, C++, Java, C#</text>
+    <text x="30" y="222"><tspan fill="#34D399">Status:</tspan> <tspan fill="#6ee7b7">online, building</tspan></text>
+  </g>
+
+  <g transform="translate(560, 90)">
+    <rect x="0" y="0" width="90" height="90" rx="10" fill="none" stroke="#34D399" stroke-width="2"/>
+    <rect x="18" y="18" width="54" height="54" rx="6" fill="none" stroke="#065f46" stroke-width="2"/>
+    <rect x="34" y="34" width="22" height="22" rx="3" fill="#34D399" opacity="0.85"/>
+    <line x1="45" y1="0" x2="45" y2="18" stroke="#34D399" stroke-width="2"/>
+    <line x1="45" y1="72" x2="45" y2="90" stroke="#34D399" stroke-width="2"/>
+    <line x1="0" y1="45" x2="18" y2="45" stroke="#34D399" stroke-width="2"/>
+    <line x1="72" y1="45" x2="90" y2="45" stroke="#34D399" stroke-width="2"/>
+  </g>
+
+  <rect x="30" y="236" width="9" height="16" fill="#34D399">
+    <animate attributeName="opacity" values="1;0;1" dur="1.1s" repeatCount="indefinite"/>
+  </rect>
+</svg>
