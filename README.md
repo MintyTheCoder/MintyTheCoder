@@ -6,16 +6,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=800&color=065F46&center=true&vCenter=true&width=600&lines=%3E+booting+montgomery_brown.exe...;%3E+loading+modules%3A+%5BCompE%2C+CS%2C+chip-scale-integration%5D;%3E+status%3A+online"/>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/montgomery-brown">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge"/>
-  </a>
-  <a href="https://www.youtube.com/@MintyTheTechman">
-    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=MintyTheCoder&label=PROFILE+VIEWS&color=34D399&style=for-the-badge"/>
-</p>
-
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:022c22,100:34D399&height=3"/>
@@ -77,7 +67,7 @@ $ ./build.sh montgomery_brown
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,cs,arduino,unity,git,github,vscode&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,arduino,unity,git,github,vscode&theme=dark"/>
 
 </div>
 
